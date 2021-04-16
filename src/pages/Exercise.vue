@@ -45,6 +45,13 @@
 						description: "The Brussels sprout is a member of the Gemmifera Group of cabbages, grown for its edible buds.",
 						Delicousness: 1
 					},
+					{
+						id: 4,
+						image: 'https://i.imgur.com/25dh9Wpb.jpg',
+						name: "Sushis" ,
+						description: "Le sushi (寿司, 鮨, 鮓?) est un plat traditionnel japonais, composé d'un riz vinaigré appelé shari (舎利?) combiné avec un autre ingrédient appelé neta (寿司ネタ?) qui est habituellement du poisson cru ou des fruits de mer.",
+						Delicousness: 5
+					},
 				]
 			}
 		},
